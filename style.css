@@ -1,4 +1,6 @@
-html {
-  height: 100%;
-  width: 100%;
+.switch
+{
+  width: 80px; height: 40px;
+  border-radius: 20px;
+  background-color: rgb(39, 38, 38);
 }
